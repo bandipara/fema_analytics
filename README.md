@@ -1,9 +1,9 @@
 # FEMA_Analytics
 
-#GitHub Instructions:
-1. Each individual should create a separate branch
-2. When committing, each individual should commit to a their personal branch.
-3. When ready to merge, you will create a PR (Pull Request).
+Folders:
+1. "Final_Data" - contains the data files to be used for analysis
+2. "Archive" - contains extra data. Use it if required.
+3. Please remember to check-in python code ever 30 mins.
 
 #Git Commands:
 1. git pull origin master                   #pulls changed files from master
