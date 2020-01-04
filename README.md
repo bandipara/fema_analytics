@@ -1,4 +1,4 @@
-# FEMA_Data_Analysis
+# FEMA_Analytics
 
 #GitHub Instructions:
 1. Each individual should create a separate branch
