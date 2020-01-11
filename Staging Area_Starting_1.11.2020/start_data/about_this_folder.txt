@@ -1,2 +1,2 @@
 These are the three data files downloaded from FEMA's website which is to be accessed by the other folders.
-There should only be three .csv files here.  All other files will be either moved or deleted.
+There should only be three .csv files here (and this .txt file, of course).  All other files will be either moved or deleted.
