@@ -1,0 +1,2 @@
+This folder consists of the df created by pivoting the disaster declarations df.
+Meghna has responsibility and authority over this folder.
