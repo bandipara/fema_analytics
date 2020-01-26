@@ -1,2 +1,0 @@
-This folder focuses on the df created by merging the two financial dfs with the disaster declarations df.
-Paul has responsibility and authority over this folder.
