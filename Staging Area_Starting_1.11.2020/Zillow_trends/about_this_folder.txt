@@ -1,2 +1,0 @@
-This folder focuses on data acquired via Zillow's API feature and any FEMA data accumulated by the Hackson 5.
-Bhargav has responsibility and authority over this folder.
