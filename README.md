@@ -1,5 +1,13 @@
 # FEMA_Analytics
 
+Team 5 Project Plan:
+1. Data Set: FEMA - https://www.fema.gov/openfema-dataset-openfema-data-sets-v1
+2. Exploratory Analysis:
+Disaster regions
+Cost per disaster
+Budget per disaster
+After-effects of disaster
+
 Folders:
 1. "Final_Data" - contains the data files to be used for analysis
 2. "Archive" - contains extra data. Use it if required.
