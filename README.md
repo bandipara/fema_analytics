@@ -20,24 +20,23 @@ Team 5 Project Plan:
 3. Analysis Results:
 For Analysis purpose, FEMA and Zillow data was compared between the state of Texas. As per the comparision, it was found that few counties did show direct corelation between the number of disasters and house prices. However, the pattern was not consistent which indicates there were other factors affecting the house prices. 
 ## Texas Disaster by County
-![](output_visual\TX Disaster by County.png)
+![](output_visual/TX Disaster by County.png)
 ## Texas Median House by County
-![](output_visual\TX House by County.png)
+![](output_visual/TX House by County.png)
 ## MAP
-![](output_visual\Texas_Zillow.PNG)
+![](output_visual/Texas_Zillow.PNG)
 
 ## Comparing Payouts by Disaster
-![](output_visual\Average Money per Person.png) ![](output_visual\Declared Disasters Over Time.png) ![](output_visual\Households Affected.png)
+![](output_visual/Average Money per Person.png) ![](output_visual/Declared Disasters Over Time.png) ![](output_visual/Households Affected.png)
 
 ## Boxplot of Average Payout by State
-![](output_visual\Owner Boxplot.png)
-![](output_visual\Renter Boxplot.png)
+![](output_visual/Owner Boxplot.png)
+![](output_visual/Renter Boxplot.png)
 
 ## Other Charts of Disasters
-![](output_visual\counties_affect_waffle.png)
-![](output_visual\counties_affected_pie.png)
-![](output_visual\Counties affected by Disasters from 2013 - 2020.png)
-
+![](output_visual/counties_affect_waffle.png)
+![](output_visual/counties_affected_pie.png)
+![](output_visual/Counties affected by Disasters from 2013 - 2020.png)
 
 
 Folders:
@@ -45,10 +44,6 @@ Folders:
 2. Archive - contains redundant files
 3. Final Presentation - contains .ppt presentation of the project
 4. Output_Visual - contains out put of all visuals created.
-
-
-
-
 
 
 Git Commands to Push Changes:
