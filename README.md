@@ -27,16 +27,16 @@ For Analysis purpose, FEMA and Zillow data was compared between the state of Tex
 ![](output_visual/Texas_Zillow.PNG)
 
 ## Comparing Payouts by Disaster
-![](output_visual/Average Money per Person.png) ![](output_visual/Declared Disasters Over Time.png) ![](output_visual/Households Affected.png)
+![](output_visual/Average_Money_per_Person.png) ![](output_visual/Money_Approved_by_FEMA.png) ![](output_visual/Households_Affected.png)
 
 ## Boxplot of Average Payout by State
-![](output_visual/Owner Boxplot.png)
-![](output_visual/Renter Boxplot.png)
+![](output_visual/Owner_Boxplot.png)
+![](output_visual/Renter_Boxplot.png)
 
 ## Other Charts of Disasters
 ![](output_visual/counties_affect_waffle.png)
 ![](output_visual/counties_affected_pie.png)
-![](output_visual/Counties affected by Disasters from 2013 - 2020.png)
+![](output_visual/Counties_affected_by_Disasters_from_2013-2020.png)
 
 
 Folders:
