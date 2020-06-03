@@ -20,9 +20,9 @@ Team 5 Project Plan:
 3. Analysis Results:
 For Analysis purpose, FEMA and Zillow data was compared between the state of Texas. As per the comparision, it was found that few counties did show direct corelation between the number of disasters and house prices. However, the pattern was not consistent which indicates there were other factors affecting the house prices. 
 ## Texas Disaster by County
-![](output_visual/TX Disaster by County.png)
+![](output_visual/TX_Disaster_by_County.png)
 ## Texas Median House by County
-![](output_visual/TX House by County.png)
+![](output_visual/TX_House_by_County.png)
 ## MAP
 ![](output_visual/Texas_Zillow.PNG)
 
